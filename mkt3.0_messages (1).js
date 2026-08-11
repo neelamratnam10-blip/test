@@ -3,7 +3,7 @@ Mkt3L10n.adminFieldHtmlEncodeForm = {
   Explain:
     "Configuressss the default HTML encoding behavior in email tokenss for all fieldssss gghfjhvjhvhjvhjvhjvhj",
   Remind:
-    "This setting will apply to all fields. You can configure this setting for each field as well",
+    "This setting will apply to all fields. You can configure this setting for each field as well access",
   Save: "SAVE",
   Cancel: "Cancel",
 };

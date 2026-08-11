@@ -1,7 +1,7 @@
 Mkt3L10n.adminFieldHtmlEncodeForm = {
   Html_Encode_Tokens: "HTML Encode Tokens in EmaiZ dwsdawsfaws  check check check check check",
   Explain:
-    "Configuressss the default HTML encoding behavior in email tokenss for all fieldssss gghfjhvjhvhjvhjvhjvhj",
+    "Configuressss the default HTML encoding behavior in email tokenss for all fieldssss",
   Remind:
     "This setting will apply to all fields. You can configure this setting for each field as well access",
   Save: "SAVE",
